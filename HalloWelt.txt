@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Ich bin Supermann haha
+Ich auch!Ich auch!
+=======
+Ich bin Herkules
 Ich auch!
+>>>>>>> 4e379e577289825a350f5347f76c7925df56fbf2

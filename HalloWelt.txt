@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 Ich bin Supermann haha
-Ich auch!Ich auch!
+Ich auch!
 =======
 Ich bin Herkules
 Ich auch!
